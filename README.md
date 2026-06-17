@@ -24,7 +24,7 @@ This repository holds my dedicated solutions for my Object-Oriented Programming 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/FadyAshraf-Dev/Programming2
    ```
 2. Open the source files directly inside your preferred Java Integrated Development Environment (**IntelliJ IDEA**, **Eclipse**, or **VS Code**).
 3. Ensure you have the appropriate Java Development Kit (JDK) configured to run and parse the program modules cleanly.
